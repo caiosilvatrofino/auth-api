@@ -1,4 +1,4 @@
-package auth_api.com.auth_api.domain;
+package auth_api.com.auth_api.domain.user;
 
 
 import jakarta.persistence.*;
